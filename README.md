@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/47691119/89095009-5bd7d900-d3e7-11ea-8cf2-bf13db2c2e38.jpg" width="800" height="800">
+<img src="https://user-images.githubusercontent.com/47691119/89095009-5bd7d900-d3e7-11ea-8cf2-bf13db2c2e38.jpg" width="500" height="500">
 
 # TheFlyingFishGame
 A simple yet fun android game
